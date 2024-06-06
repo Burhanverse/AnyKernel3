@@ -13,8 +13,6 @@ do.cleanuponabort=0
 device.name1=lancelot 
 device.name2=lava
 device.name3=shiva
-device.name4=
-device.name5=
 supported.versions=
 supported.patchlevels=
 '; } # end properties
